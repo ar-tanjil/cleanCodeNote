@@ -41,3 +41,6 @@ build/
 /cleanCode/.idea/encodings.xml
 /cleanCode/.idea/jarRepositories.xml
 /cleanCode/.idea/misc.xml
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/vcs.xml
