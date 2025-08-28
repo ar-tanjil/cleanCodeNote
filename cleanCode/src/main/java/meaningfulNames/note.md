@@ -1,4 +1,5 @@
 # Meaningful Names
+### Rule for naming.
 
 ## 1. Use Intention-Revealing Names.
 
